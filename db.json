@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "instituicoes": [
+    { 
+      "id": 1,
+      "nome": "ibere",
+      "endereco": "padre cacique",
+      "aberto": true,
+      "tempo_visita": 1234,
+      "descricao": "ibere camargo",
+      "latitude": "123445",
+      "longitude": "63435",
+      "email": "ibere@ibere.com",
+      "telefone": "1234125143",
+      "observacoes": "obs do ibere"
+    }
+  ]
 }
