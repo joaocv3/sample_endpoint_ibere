@@ -12,6 +12,18 @@
       "email": "ibere@ibere.com",
       "telefone": "1234125143",
       "observacoes": "obs do ibere"
+    }, {
+      "id": 2,
+      "nome": "museu puc",
+      "endereco": "ipiranga",
+      "aberto": false,
+      "tempo_visita": 444,
+      "descricao": "museu pucrs",
+      "latitude": "123445",
+      "longitude": "63435",
+      "email": "museupuc@museupuc.com",
+      "telefone": "125143",
+      "observacoes": "obs do museu puc"
     }
   ]
 }
