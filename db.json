@@ -2,7 +2,7 @@
   "instituicoes": [
     { 
       "id": 1,
-      "nome": "Fundação Iberê Camargo",
+      "nome": "",
       "endereco": "Av. Padre Cacique, 2000",
       "aberto": true,
       "tempo_visita": 1234,
