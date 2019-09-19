@@ -230,40 +230,4 @@
 "telefone": "0512345678",
 "observacoes": "string"
 }
-
-],
-  "roteiros": [
-    {
-      "id": 333,
-      "nome": "Centros Culturais",
-      "tempo": "22",
-      "instituicoes": [
-        {
-          "id": 1,
-          "nome": "Fundação Iberê Camargo",
-          "endereco": "Av. Padre Cacique, 2000",
-          "aberto": true,
-          "tempo_visita": 1234,
-          "descricao": "Fundação Iberê Camargo, sediada na cidade brasileira de 		Porto Alegre, é uma entidade cultural que tem como objetivos a 			preservação, o estudo e a ...",
-          "latitude": "123445",
-          "longitude": "63435",
-          "email": "ibere@ibere.com",
-          "telefone": "1234125143",
-          "observacoes": "obs do ibere"
-        }, {
-        "id": 2,
-        "nome": "Museu de Ciências e Tecnologia da PUCRS",
-        "endereco": "Av. Ipiranga, 6681",
-        "aberto": true,
-        "tempo_visita": 444,
-        "descricao": "Para marcar a sua reabertura, após um período de obras de melhorias, o Museu de Ciências e Tecnologia da PUCRS (MCT) criou uma programação especial com muita ciência e diversão...",
-        "latitude": "123445",
-        "longitude": "63435",
-        "email": "museupuc@museupuc.com",
-        "telefone": "125143",
-        "observacoes": "obs do museu puc"
-        }
-      ]
-    }
-  ]
-}
+]
