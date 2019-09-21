@@ -108,7 +108,7 @@
 				"instagram",
 				"anyOther"
 			],
-			"distancia": 0.0,
+			"distancia": 10.2,
 			"e-mail": "test@test.com",
 			"telefone": "0512345678",
 			"observacoes": "string"
