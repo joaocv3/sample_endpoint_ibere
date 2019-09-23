@@ -28,17 +28,17 @@
 				{
 					"dia": "sex",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				},
 				{
 					"dia": "sab",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				},
 				{
 					"dia": "dom",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				}
 			],
 			"imagens": [
@@ -85,17 +85,17 @@
 				{
 					"dia": "sex",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				},
 				{
 					"dia": "sab",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				},
 				{
 					"dia": "dom",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				}
 			],
 			"imagens": [
@@ -141,17 +141,17 @@
 				{
 					"dia": "sex",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				},
 				{
 					"dia": "sab",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				},
 				{
 					"dia": "dom",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				}
 			],
 			"imagens": [
@@ -198,17 +198,17 @@
 				{
 					"dia": "sex",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				},
 				{
 					"dia": "sab",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				},
 				{
 					"dia": "dom",
 					"horario_abertura": "08:25",
-					"horario_fechamento": "16:40"
+					"horario_encerramento": "16:40"
 				}
 			],
 			"imagens": [
